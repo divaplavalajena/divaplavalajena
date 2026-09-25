@@ -22,7 +22,7 @@ Toolkit
 
 `Swift` · `SwiftUI` · `UIKit` · `Kotlin` · `Jetpack Compose` · `MVVM` · `Dependency Injection` · `XCTest` · `REST` · `WebSockets` · `Core Data`
 
-Also true
+
 
 Master of Information Technology from Virginia Tech. Former opera singer — I taught voice and ran a production company for eleven years before I wrote Swift professionally, which is still the best training in stakeholder management I've had.
 
